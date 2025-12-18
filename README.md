@@ -490,8 +490,8 @@ contactstyle.css
 
 ![alt text](<Screenshot (37).png>)
 ![alt text](<Screenshot (38).png>)
-![alt text](<Screenshot (41).png>)
-![alt text](<Screenshot (42).png>)
+![alt text](<Screenshot (44).png>)
+![alt text](<Screenshot (43).png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
